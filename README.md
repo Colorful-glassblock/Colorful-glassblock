@@ -20,6 +20,7 @@
 - I am a "Three Good Student" ~~I have used SQLmap to access the school database (yes, really)~~
 - iOS jailbreak + Android tinkering + ~~F___ Huawei~~
 - <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="20" height="20"/> C++ OI
+- zh-CN Docs l10n
 
 ## 📊 GitHub Contributions
 
@@ -29,3 +30,34 @@
 
 ## Bilibili
 [![BiliBili](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D490874109&query=data.follower&style=for-the-badge&logo=bilibili&logoColor=white&label=Bilibili%20Fans&color=00A2D8&labelColor=1F222E)](https://space.bilibili.com/490874109)
+
+# Projects
+
+## BVCN - A Randomly-Written Third-Party Bilibili Client
+
+[![Stars](https://img.shields.io/github/stars/Colorful-glassblock/BVCN?style=flat-square)](https://github.com/Colorful-glassblock/BVCN/stargazers)
+[![Android](https://img.shields.io/badge/Platform-Android%20%7C%20TV-green?style=flat-square)]()
+[![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple?style=flat-square)]()
+[![JetBrains](https://img.shields.io/badge/UI-Jetpack%20Compose-blue?style=flat-square)]()
+
+### What Is This
+
+A third-party Bilibili client built with Kotlin + Jetpack Compose, works on both phone and TV.
+
+### Why
+
+The official client is bloated with stuff I don't need. So I made my own. ~~Also an excuse to play with Compose.~~
+
+### Current State
+
+- It works. Don't expect too much.
+- API might break anytime. Fixes come when they come.
+- Features are added based on my mood.
+
+### Disclaimer
+
+For learning and communication purposes only. No commercial use. Use at your own risk.
+
+---
+
+**If it works for you, leave a Star. If it sucks, leave a Star and wait for updates (if any).**
